@@ -1,0 +1,9 @@
+!.gitkeep
+!.gitignore
+logs/*
+!logs/.gitkeep
+model/*
+!model/.gitkeep
+*.h5
+model_chatBot/*
+!model_chatBot/.gitkeep
